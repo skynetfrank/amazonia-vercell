@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "description": "amazonia-backend",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node --experimental-modules server.js"
   },
