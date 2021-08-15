@@ -5,7 +5,7 @@
   "description": "amazonia-backend",
   "main": "index.js",
   "scripts": {
-    "start": "--exec node --experimental-modules backend/server.js"
+    "start": "node --experimental-modules backend/server.js"
   },
   "author": "",
   "license": "ISC",
